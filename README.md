@@ -4,7 +4,9 @@ This project implements a real-time cloth simulation using **Position-Based Dyna
 
 ## 🎬 Demo
 
-▶️ Watch the demo here: ![演示](output.gif)
+▶️ Watch the demo here: 
+
+![演示](output.gif)
 
 ## 💡 Features
 
